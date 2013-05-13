@@ -1,0 +1,10 @@
+*.[oa]
+*~
+*.swp
+CMakeFiles*
+probabilistic*
+bright*
+dark*
+*.cmake
+CMakeFi*
+Makefile
